@@ -11,4 +11,5 @@ git push
 Dataset
 https://cseweb.ucsd.edu/~jmcauley/datasets.html#
 
+wget http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Electronics_5.json.gz
 
